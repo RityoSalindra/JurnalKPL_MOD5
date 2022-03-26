@@ -11,7 +11,7 @@ namespace modul5_1302204014
     {
         static void Main(string[] args)
         {
-            SayaTubeVideo a = new SayaTubeVideo("Tutorial Design By Contract – [Nuruddin Rityo Salindra]");
+            SayaTubeVideo a = new SayaTubeVideo("Impelementasi Design By Contract – [Nuruddin Rityo Salindra]");
             a.PrintVideoDetails();
             a.IncreasePlayCount(2);
             a.PrintVideoDetails();
